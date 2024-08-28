@@ -1,0 +1,7 @@
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\bin\Debug\SzamoloGep.exe.config
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\bin\Debug\SzamoloGep.exe
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\bin\Debug\SzamoloGep.pdb
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\obj\Debug\SzamoloGep.csproj.AssemblyReference.cache
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\obj\Debug\SzamoloGep.csproj.CoreCompileInputs.cache
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\obj\Debug\SzamoloGep.exe
+C:\Users\boton\source\repos\Kezdes\SzamoloGep\obj\Debug\SzamoloGep.pdb

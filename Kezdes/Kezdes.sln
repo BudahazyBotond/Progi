@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{279E5AED-41F9-4ACF-A306-2DFE5B515B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamoloGep", "SzamoloGep\SzamoloGep.csproj", "{AC162342-2E61-439D-A095-E10B207EE824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279E5AED-41F9-4ACF-A306-2DFE5B515B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E5AED-41F9-4ACF-A306-2DFE5B515B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E5AED-41F9-4ACF-A306-2DFE5B515B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E5AED-41F9-4ACF-A306-2DFE5B515B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC162342-2E61-439D-A095-E10B207EE824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC162342-2E61-439D-A095-E10B207EE824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC162342-2E61-439D-A095-E10B207EE824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC162342-2E61-439D-A095-E10B207EE824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F925BD3A-15DB-41DA-AA93-77C42B670DCB}
+	EndGlobalSection
+EndGlobal
